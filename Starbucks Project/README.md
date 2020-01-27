@@ -1,4 +1,4 @@
-Starbucks Capstone Project
+# Starbucks Capstone Project
 Sent offers to Starbucks customers, completed offers and offer details are 
 analysed from from a given dataset, in this project the dataset
 are preprocessed and cleaned, and then fitted to a binary decision tree
