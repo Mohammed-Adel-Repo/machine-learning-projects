@@ -1,16 +1,15 @@
 Starbucks Capstone Project
 Sent offers to Starbucks customers, completed offers and offer details are 
-analysed from the dataset in data folder, in this project the dataset
+analysed from from a given dataset, in this project the dataset
 are preprocessed and cleaned, and then fitted to a binary decision tree
 classifier to predict if a given example record will complete an offer
 or not.
 
 Dataset
-Raw data are stored in data folder, preprocessed data ara available also,
-more information about preprocessed data are given in the notebook
+Given from Udacity machine learning engineer nandegree course.
 
 Prerequisites
-Anaconda Jupyter notebook, and following libraries:
+Anaconda Jupyter notebook, python, and following libraries:
 pandas 
 numpy
 math
@@ -36,6 +35,5 @@ from sklearn.linear_model LogisticRegression
 from matplotlib pyplot
 from scipy misc
 
-
-Authors
+Author
 Mohammed Adel
